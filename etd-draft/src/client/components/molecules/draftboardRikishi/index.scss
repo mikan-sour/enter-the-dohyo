@@ -1,0 +1,39 @@
+.profile-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: .5rem;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.profile-rikishi-details {
+    padding: 1rem;
+    h3{
+        font-size: 1.5rem;
+    }
+    .deets {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+}
+
+.east, .west {
+}
+
+.east {
+    background-color: maroon;
+}
+
+.west {
+    background-color: blueviolet;
+}
+
+.selected {
+    background-color: yellow;
+}
+
+.already-picked {
+    background-color: #888;
+}

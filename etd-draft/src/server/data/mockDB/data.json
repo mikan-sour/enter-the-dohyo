@@ -1,0 +1,306 @@
+{
+    "yokozuna": [
+        {
+            "rikishi": "Hakuho",
+            "rank": "Yokozuna",
+            "position": 1,
+            "side": "East",
+            "weight": 154
+        },
+        {
+            "rikishi": "Terunofuji",
+            "rank": "Yokozuna",
+            "position": 1,
+            "side": "West",
+            "weight": 171
+        }
+    ],
+    "ozeki": [
+        {
+            "rikishi": "Takakeisho",
+            "rank": "Ozeki",
+            "position": 1,
+            "side": "East",
+            "weight": 160
+        },
+        {
+            "rikishi": "Shodai",
+            "rank": "Ozeki",
+            "position": 1,
+            "side": "West",
+            "weight": 160
+        }
+    ],
+    "sekiwake": [
+        {
+            "rikishi": "Asanoyama",
+            "rank": "Sekiwake",
+            "position": 1,
+            "side": "East",
+            "weight": 155
+        },
+        {
+            "rikishi": "Takanosho",
+            "rank": "Sekiwake",
+            "position": 1,
+            "side": "West",
+            "weight": 148
+        }
+    ],
+    "komosubi": [
+        {
+            "rikishi": "Mitakeumi",
+            "rank": "Komusubi",
+            "position": 1,
+            "side": "East",
+            "weight": 155
+        },
+        {
+            "rikishi": "Daieisho",
+            "rank": "Komusubi",
+            "position": 1,
+            "side": "West",
+            "weight": 160
+        }
+    ],
+    "maegashira": [
+        {
+            "rikishi": "Takayasu",
+            "rank": "Maegashira",
+            "position": 1,
+            "side": "East",
+            "weight": 158
+        },
+        {
+            "rikishi": "Takarafuji",
+            "rank": "Maegashira",
+            "position": 1,
+            "side": "West",
+            "weight": 147
+        },
+        {
+            "rikishi": "Onosho",
+            "rank": "Maegashira",
+            "position": 2,
+            "side": "East",
+            "weight": 152
+        },
+        {
+            "rikishi": "Abi",
+            "rank": "Maegashira",
+            "position": 2,
+            "side": "West",
+            "weight": 158
+        },
+        {
+            "rikishi": "Kiribayama",
+            "rank": "Maegashira",
+            "position": 3,
+            "side": "East",
+            "weight": 160
+        },
+        {
+            "rikishi": "Terutsuyoshi",
+            "rank": "Maegashira",
+            "position": 3,
+            "side": "West",
+            "weight": 150
+        },
+        {
+            "rikishi": "Tochinoshin",
+            "rank": "Maegashira",
+            "position": 4,
+            "side": "East",
+            "weight": 151
+        },
+        {
+            "rikishi": "Kaisei",
+            "rank": "Maegashira",
+            "position": 4,
+            "side": "West",
+            "weight": 137
+        },
+        {
+            "rikishi": "Ichinojo",
+            "rank": "Maegashira",
+            "position": 5,
+            "side": "East",
+            "weight": 215
+        },
+        {
+            "rikishi": "Kotonowaka",
+            "rank": "Maegashira",
+            "position": 5,
+            "side": "West",
+            "weight": 190
+        },
+        {
+            "rikishi": "Chiyotairyu",
+            "rank": "Maegashira",
+            "position": 6,
+            "side": "East",
+            "weight": 170
+        },
+        {
+            "rikishi": "Kagayaki",
+            "rank": "Maegashira",
+            "position": 6,
+            "side": "West",
+            "weight": 168
+        },
+        {
+            "rikishi": "Tamawashi",
+            "rank": "Maegashira",
+            "position": 7,
+            "side": "East",
+            "weight": 175
+        },
+        {
+            "rikishi": "Myogiryu",
+            "rank": "Maegashira",
+            "position": 7,
+            "side": "West",
+            "weight": 157
+        },
+        {
+            "rikishi": "Endo",
+            "rank": "Maegashira",
+            "position": 8,
+            "side": "East",
+            "weight": 160
+        },
+        {
+            "rikishi": "Tsurugisho",
+            "rank": "Maegashira",
+            "position": 8,
+            "side": "West",
+            "weight": 150
+        },
+        {
+            "rikishi": "Yutakayama",
+            "rank": "Maegashira",
+            "position": 9,
+            "side": "East",
+            "weight": 175
+        },
+        {
+            "rikishi": "Ishiura",
+            "rank": "Maegashira",
+            "position": 9,
+            "side": "West",
+            "weight": 135
+        },
+        {
+            "rikishi": "Chiyoshoma",
+            "rank": "Maegashira",
+            "position": 10,
+            "side": "East",
+            "weight": 137
+        },
+        {
+            "rikishi": "Kotoeko",
+            "rank": "Maegashira",
+            "position": 10,
+            "side": "West",
+            "weight": 139
+        },
+        {
+            "rikishi": "Tokushoryu",
+            "rank": "Maegashira",
+            "position": 11,
+            "side": "East",
+            "weight": 162
+        },
+        {
+            "rikishi": "Shimanoumi",
+            "rank": "Maegashira",
+            "position": 11,
+            "side": "West",
+            "weight": 156
+        },
+        {
+            "rikishi": "Kotoyuki",
+            "rank": "Maegashira",
+            "position": 12,
+            "side": "East",
+            "weight": 152
+        },
+        {
+            "rikishi": "Sadanoumi",
+            "rank": "Maegashira",
+            "position": 12,
+            "side": "West",
+            "weight": 145
+        },
+        {
+            "rikishi": "Aoiyama",
+            "rank": "Maegashira",
+            "position": 13,
+            "side": "East",
+            "weight": 199
+        },
+        {
+            "rikishi": "Kotoeko",
+            "rank": "Maegashira",
+            "position": 13,
+            "side": "West",
+            "weight": 142
+        },
+        {
+            "rikishi": "Azumaryu",
+            "rank": "Maegashira",
+            "position": 14,
+            "side": "East",
+            "weight": 167
+        },
+        {
+            "rikishi": "Kotoyuki",
+            "rank": "Maegashira",
+            "position": 14,
+            "side": "West",
+            "weight": 154
+        },
+        {
+            "rikishi": "Hidenoumi",
+            "rank": "Maegashira",
+            "position": 15,
+            "side": "East",
+            "weight": 158
+        },
+        {
+            "rikishi": "Ishiura",
+            "rank": "Maegashira",
+            "position": 15,
+            "side": "West",
+            "weight": 133
+        },
+        {
+            "rikishi": "Chiyonokuni",
+            "rank": "Maegashira",
+            "position": 16,
+            "side": "East",
+            "weight": 143
+        },
+        {
+            "rikishi": "Kotonowaka",
+            "rank": "Maegashira",
+            "position": 16,
+            "side": "West",
+            "weight": 173
+        },
+        {
+            "rikishi": "Hoshoryu",
+            "rank": "Maegashira",
+            "position": 17,
+            "side": "East",
+            "weight": 144
+        },
+        {
+            "rikishi": "Akua",
+            "rank": "Maegashira",
+            "position": 17,
+            "side": "West",
+            "weight": 154
+        }
+    ]
+}
